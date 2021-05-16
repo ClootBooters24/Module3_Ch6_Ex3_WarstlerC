@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Module3_Ex3_WarstlerC", "Module3_Ex3_WarstlerC.vcxproj", "{75574938-DD05-4C00-A85F-8E6B4FC6593F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75574938-DD05-4C00-A85F-8E6B4FC6593F}.Debug|x64.ActiveCfg = Debug|x64
+		{75574938-DD05-4C00-A85F-8E6B4FC6593F}.Debug|x64.Build.0 = Debug|x64
+		{75574938-DD05-4C00-A85F-8E6B4FC6593F}.Debug|x86.ActiveCfg = Debug|Win32
+		{75574938-DD05-4C00-A85F-8E6B4FC6593F}.Debug|x86.Build.0 = Debug|Win32
+		{75574938-DD05-4C00-A85F-8E6B4FC6593F}.Release|x64.ActiveCfg = Release|x64
+		{75574938-DD05-4C00-A85F-8E6B4FC6593F}.Release|x64.Build.0 = Release|x64
+		{75574938-DD05-4C00-A85F-8E6B4FC6593F}.Release|x86.ActiveCfg = Release|Win32
+		{75574938-DD05-4C00-A85F-8E6B4FC6593F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6B82D54-2071-4423-A791-538140662185}
+	EndGlobalSection
+EndGlobal
